@@ -1,0 +1,7 @@
+{
+  "name": "Cloud.B.N.B",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
